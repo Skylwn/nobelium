@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 @font-face {
+  font-family: 'LXGW WenKai';
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: 'Regular';
+  src: url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css');
+}
+@font-face {
   font-family: 'IBM Plex Sans';
   font-weight: 100 900;
   font-display: swap;
