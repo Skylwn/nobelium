@@ -1,4 +1,5 @@
 exports.FONTS_SANS = [
+  '"LXGWBrightGB"',
   '"IBM Plex Sans"',
   'ui-sans-serif',
   'system-ui',
@@ -24,7 +25,6 @@ exports.FONTS_SANS = [
   'SimHei',
   '"WenQuanYi Zen Hei Sharp"',
   'sans-serif',
-  '"LXGW WenKai GB"'
 ]
 exports.FONTS_SERIF = [
   '"Source Serif"',
@@ -48,6 +48,5 @@ exports.FONTS_SERIF = [
   '"AR PL UMing TW MBE"',
   'PMingLiU',
   'MingLiU',
-  'serif',
-  '"LXGW WenKai GB"'
+  'serif'
 ]
